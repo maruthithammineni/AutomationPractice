@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite" preserve-order="true">
+
+	<parameter name="email" value="maruthi.th@gmail.com" />
+	<parameter name="password" value="Capgemini" />
+
+	<test name="Create a new account">
+		<classes>
+			<class name="CapGemini.AutomationPractice.CreateAccount_Test" />
+		</classes>
+	</test>
+
+	<test name="Login">
+		<classes>
+			<class name="CapGemini.AutomationPractice.Login_Test" />
+		</classes>
+	</test>
+
+	<test
+		name="Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart">
+		<classes>
+			<class name="CapGemini.AutomationPractice.Shop_Dresses_Test" />
+		</classes>
+	</test>
+
+	<test name="Login_Logout">
+		<classes>
+			<class name="CapGemini.AutomationPractice.Logout_Test" />
+		</classes>
+	</test>
+</suite>

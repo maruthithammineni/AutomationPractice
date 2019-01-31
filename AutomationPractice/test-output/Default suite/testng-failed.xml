@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <parameter name="password" value="CapGemini"/>
+  <parameter name="email" value="maruthi.thammineni1@gmail.com"/>
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="CapGemini.AutomationPractice.Shop_Dresses_Test">
+        <methods>
+          <include name="Exit"/>
+          <include name="buyDress_MaxRate" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- CapGemini.AutomationPractice.Shop_Dresses_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
