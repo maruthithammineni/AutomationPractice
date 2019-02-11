@@ -6,11 +6,11 @@
 	<parameter name="email" value="maruthi.th@gmail.com" />
 	<parameter name="password" value="Capgemini" />
 
-	<test name="Create a new account">
+<!-- 	<test name="Create a new account">
 		<classes>
 			<class name="CapGemini.AutomationPractice.CreateAccount_Test" />
 		</classes>
-	</test>
+	</test> -->
 
 	<test name="Login">
 		<classes>

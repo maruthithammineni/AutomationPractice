@@ -1,59 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="8" passed="7">
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
     <line>
       <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
     </line>
     <line>
-      <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on element with identification : By.id: SubmitCreate]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on element with identification : By.id: id_gender1]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Maruthi]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Thammineni]]>
-    </line>
-    <line>
-      <![CDATA[Value match : maruthi.thammineni@gmail.com]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Capgemini]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Pre Interview]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Capgemini]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Test City]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : 35505]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : 0044 7582141603]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : Home]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on element with identification : By.id: submitAccount]]>
-    </line>
-    <line>
-      <![CDATA[Signup successful: Welcome to your account. Here you can manage all of your personal information and orders.]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
-    </line>
-    <line>
-      <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+      <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
     </line>
     <line>
       <![CDATA[Text box value set as : Capgemini]]>
@@ -68,7 +20,7 @@
       <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
     </line>
     <line>
-      <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+      <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
     </line>
     <line>
       <![CDATA[Text box value set as : Capgemini]]>
@@ -107,7 +59,7 @@
       <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
     </line>
     <line>
-      <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+      <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
     </line>
     <line>
       <![CDATA[Text box value set as : Capgemini]]>
@@ -122,7 +74,7 @@
       <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
     </line>
     <line>
-      <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+      <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
     </line>
     <line>
       <![CDATA[Text box value set as : Capgemini]]>
@@ -140,96 +92,20 @@
       <![CDATA[Logged out from the account successfully !!!]]>
     </line>
   </reporter-output>
-  <suite name="TestSuite" duration-ms="62733" started-at="2019-01-31T11:41:12Z" finished-at="2019-01-31T11:42:15Z">
+  <suite name="TestSuite" duration-ms="60754" started-at="2019-02-11T16:28:12Z" finished-at="2019-02-11T16:29:12Z">
     <groups>
     </groups>
-    <test name="Create a new account" duration-ms="17465" started-at="2019-01-31T11:41:12Z" finished-at="2019-01-31T11:41:30Z">
-      <class name="CapGemini.AutomationPractice.CreateAccount_Test">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.CreateAccount_Test@ae45eb6]" name="Setup" duration-ms="3580" started-at="2019-01-31T11:41:13Z" finished-at="2019-01-31T11:41:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="signin_CreateAccount(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.CreateAccount_Test@ae45eb6]" name="signin_CreateAccount" duration-ms="13257" started-at="2019-01-31T11:41:16Z" finished-at="2019-01-31T11:41:29Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[maruthi.thammineni@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Capgemini]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on element with identification : By.id: SubmitCreate]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on element with identification : By.id: id_gender1]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Maruthi]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Thammineni]]>
-            </line>
-            <line>
-              <![CDATA[Value match : maruthi.thammineni@gmail.com]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Capgemini]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Pre Interview]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Capgemini]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Test City]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : 35505]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : 0044 7582141603]]>
-            </line>
-            <line>
-              <![CDATA[Text box value set as : Home]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on element with identification : By.id: submitAccount]]>
-            </line>
-            <line>
-              <![CDATA[Signup successful: Welcome to your account. Here you can manage all of your personal information and orders.]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signin_CreateAccount -->
-        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.CreateAccount_Test@ae45eb6]" name="Exit" is-config="true" duration-ms="597" started-at="2019-01-31T11:41:29Z" finished-at="2019-01-31T11:41:30Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Exit -->
-      </class> <!-- CapGemini.AutomationPractice.CreateAccount_Test -->
-    </test> <!-- Create a new account -->
-    <test name="Login" duration-ms="10252" started-at="2019-01-31T11:41:30Z" finished-at="2019-01-31T11:41:40Z">
+    <test name="Login" duration-ms="23728" started-at="2019-02-11T16:28:12Z" finished-at="2019-02-11T16:28:35Z">
       <class name="CapGemini.AutomationPractice.Login_Test">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.Login_Test@f6c48ac]" name="Setup" duration-ms="2731" started-at="2019-01-31T11:41:30Z" finished-at="2019-01-31T11:41:33Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.Login_Test@ae45eb6]" name="Setup" duration-ms="14126" started-at="2019-02-11T16:28:12Z" finished-at="2019-02-11T16:28:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Login_Successful(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.Login_Test@f6c48ac]" name="Login_Successful" duration-ms="6915" started-at="2019-01-31T11:41:33Z" finished-at="2019-01-31T11:41:40Z">
+        <test-method status="PASS" signature="Login_Successful(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.Login_Test@ae45eb6]" name="Login_Successful" duration-ms="8304" started-at="2019-02-11T16:28:26Z" finished-at="2019-02-11T16:28:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[maruthi.thammineni@gmail.com]]>
+                <![CDATA[maruthi.th@gmail.com]]>
               </value>
             </param>
             <param index="1">
@@ -243,7 +119,7 @@
               <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
             </line>
             <line>
-              <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+              <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
             </line>
             <line>
               <![CDATA[Text box value set as : Capgemini]]>
@@ -256,23 +132,23 @@
             </line>
           </reporter-output>
         </test-method> <!-- Login_Successful -->
-        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.Login_Test@f6c48ac]" name="Exit" is-config="true" duration-ms="602" started-at="2019-01-31T11:41:40Z" finished-at="2019-01-31T11:41:40Z">
+        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.Login_Test@ae45eb6]" name="Exit" is-config="true" duration-ms="1046" started-at="2019-02-11T16:28:34Z" finished-at="2019-02-11T16:28:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Exit -->
       </class> <!-- CapGemini.AutomationPractice.Login_Test -->
     </test> <!-- Login -->
-    <test name="Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart" duration-ms="22713" started-at="2019-01-31T11:41:40Z" finished-at="2019-01-31T11:42:03Z">
+    <test name="Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart" duration-ms="22560" started-at="2019-02-11T16:28:35Z" finished-at="2019-02-11T16:28:58Z">
       <class name="CapGemini.AutomationPractice.Shop_Dresses_Test">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.Shop_Dresses_Test@14bf9759]" name="Setup" duration-ms="2795" started-at="2019-01-31T11:41:40Z" finished-at="2019-01-31T11:41:43Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.Shop_Dresses_Test@f6c48ac]" name="Setup" duration-ms="4940" started-at="2019-02-11T16:28:35Z" finished-at="2019-02-11T16:28:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="FAIL" signature="buyDress_MaxRate(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.Shop_Dresses_Test@14bf9759]" name="buyDress_MaxRate" duration-ms="19298" started-at="2019-01-31T11:41:43Z" finished-at="2019-01-31T11:42:02Z">
+        <test-method status="FAIL" signature="buyDress_MaxRate(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.Shop_Dresses_Test@f6c48ac]" name="buyDress_MaxRate" duration-ms="16819" started-at="2019-02-11T16:28:40Z" finished-at="2019-02-11T16:28:57Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[maruthi.thammineni@gmail.com]]>
+                <![CDATA[maruthi.th@gmail.com]]>
               </value>
             </param>
             <param index="1">
@@ -323,7 +199,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
               <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
             </line>
             <line>
-              <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+              <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
             </line>
             <line>
               <![CDATA[Text box value set as : Capgemini]]>
@@ -362,7 +238,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
               <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
             </line>
             <line>
-              <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+              <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
             </line>
             <line>
               <![CDATA[Text box value set as : Capgemini]]>
@@ -375,23 +251,23 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
             </line>
           </reporter-output>
         </test-method> <!-- buyDress_MaxRate -->
-        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.Shop_Dresses_Test@14bf9759]" name="Exit" is-config="true" duration-ms="615" started-at="2019-01-31T11:42:02Z" finished-at="2019-01-31T11:42:03Z">
+        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.Shop_Dresses_Test@f6c48ac]" name="Exit" is-config="true" duration-ms="795" started-at="2019-02-11T16:28:57Z" finished-at="2019-02-11T16:28:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Exit -->
       </class> <!-- CapGemini.AutomationPractice.Shop_Dresses_Test -->
     </test> <!-- Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart -->
-    <test name="Login_Logout" duration-ms="12250" started-at="2019-01-31T11:42:03Z" finished-at="2019-01-31T11:42:15Z">
+    <test name="Login_Logout" duration-ms="14331" started-at="2019-02-11T16:28:58Z" finished-at="2019-02-11T16:29:12Z">
       <class name="CapGemini.AutomationPractice.Logout_Test">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.Logout_Test@402a079c]" name="Setup" duration-ms="2665" started-at="2019-01-31T11:42:03Z" finished-at="2019-01-31T11:42:06Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:CapGemini.AutomationPractice.Logout_Test@14bf9759]" name="Setup" duration-ms="4340" started-at="2019-02-11T16:28:58Z" finished-at="2019-02-11T16:29:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Login_Logout(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.Logout_Test@402a079c]" name="Login_Logout" duration-ms="8959" started-at="2019-01-31T11:42:06Z" finished-at="2019-01-31T11:42:15Z">
+        <test-method status="PASS" signature="Login_Logout(java.lang.String, java.lang.String)[pri:0, instance:CapGemini.AutomationPractice.Logout_Test@14bf9759]" name="Login_Logout" duration-ms="9372" started-at="2019-02-11T16:29:02Z" finished-at="2019-02-11T16:29:12Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[maruthi.thammineni@gmail.com]]>
+                <![CDATA[maruthi.th@gmail.com]]>
               </value>
             </param>
             <param index="1">
@@ -405,7 +281,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
               <![CDATA[Clicked on element with identification : By.linkText: Sign in]]>
             </line>
             <line>
-              <![CDATA[Text box value set as : maruthi.thammineni@gmail.com]]>
+              <![CDATA[Text box value set as : maruthi.th@gmail.com]]>
             </line>
             <line>
               <![CDATA[Text box value set as : Capgemini]]>
@@ -424,7 +300,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
             </line>
           </reporter-output>
         </test-method> <!-- Login_Logout -->
-        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.Logout_Test@402a079c]" name="Exit" is-config="true" duration-ms="623" started-at="2019-01-31T11:42:15Z" finished-at="2019-01-31T11:42:15Z">
+        <test-method status="PASS" signature="Exit()[pri:0, instance:CapGemini.AutomationPractice.Logout_Test@14bf9759]" name="Exit" is-config="true" duration-ms="615" started-at="2019-02-11T16:29:12Z" finished-at="2019-02-11T16:29:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Exit -->
