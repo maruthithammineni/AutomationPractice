@@ -1,4 +1,4 @@
-package CapGemini.AutomationPractice;
+package tests;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class BaseTest {
 	
-	WebDriver driver;
+	protected WebDriver driver;
 	public String url = "http://automationpractice.com/index.php";
 
 	// Method to launch the browser as required

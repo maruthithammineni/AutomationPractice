@@ -5,12 +5,12 @@
   <parameter name="email" value="maruthi.th@gmail.com"/>
   <test thread-count="5" name="Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart(failed)">
     <classes>
-      <class name="CapGemini.AutomationPractice.Shop_Dresses_Test">
+      <class name="tests.Shop_Dresses_Test">
         <methods>
           <include name="buyDress_MaxRate" invocation-numbers="0"/>
           <include name="Exit"/>
         </methods>
-      </class> <!-- CapGemini.AutomationPractice.Shop_Dresses_Test -->
+      </class> <!-- tests.Shop_Dresses_Test -->
     </classes>
   </test> <!-- Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart(failed) -->
 </suite> <!-- Failed suite [TestSuite] -->

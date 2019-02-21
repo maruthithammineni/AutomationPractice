@@ -1,4 +1,4 @@
-package CapGemini.AutomationPractice;
+package pages;
 
 import java.util.List;
 
@@ -6,6 +6,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Reporter;
+
+import resources.Framework_CoreFunctions;
 
 public class Shop_Page {
 
@@ -47,12 +49,12 @@ public class Shop_Page {
 		double maxPrice = 0.00;
 
 		for (WebElement price : prices) {
-			System.out.println(price.getText());
+//			System.out.println(price.getText());
 			String strPrice = price.getText();
 			if (!strPrice.isEmpty()) {
 				strPrice = strPrice.replace("$", "");
 				double prodPrice = Double.parseDouble(strPrice);
-				System.out.println(prodPrice);
+//				System.out.println(prodPrice);
 
 				if (prodPrice > maxPrice) {
 					maxPrice = prodPrice;

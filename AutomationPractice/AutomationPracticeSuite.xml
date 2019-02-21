@@ -14,20 +14,20 @@
 
 	<test name="Login">
 		<classes>
-			<class name="CapGemini.AutomationPractice.Login_Test" />
+			<class name="tests.Login_Test" />
 		</classes>
 	</test>
 
 	<test
 		name="Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart">
 		<classes>
-			<class name="CapGemini.AutomationPractice.Shop_Dresses_Test" />
+			<class name="tests.Shop_Dresses_Test" />
 		</classes>
 	</test>
 
 	<test name="Login_Logout">
 		<classes>
-			<class name="CapGemini.AutomationPractice.Logout_Test" />
+			<class name="tests.Logout_Test" />
 		</classes>
 	</test>
 </suite>

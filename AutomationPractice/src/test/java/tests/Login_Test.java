@@ -1,26 +1,26 @@
-package CapGemini.AutomationPractice;
+package tests;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-public class Logout_Test extends BaseTest {
+import pages.Home_Page;
+
+public class Login_Test extends BaseTest {
 
 	Home_Page hp;
 
 	@Parameters({ "email", "password" })
 	@Test(enabled = true)
-	public void Login_Logout(String email, String password) {
-		
+	public void Login_Successful(String email, String password) {
+
 		driver.get(url);
 		hp = new Home_Page(driver);
 		hp.Login_Valid(email, password);
-		hp.LogoutfromAccount();
 	}
-	
+
 	@AfterTest
 	public void Exit() {
 		driver.quit();
 	}
-
 }

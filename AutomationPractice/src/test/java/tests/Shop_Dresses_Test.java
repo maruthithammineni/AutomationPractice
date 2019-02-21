@@ -1,8 +1,11 @@
-package CapGemini.AutomationPractice;
+package tests;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+
+import pages.Home_Page;
+import pages.Shop_Page;
 
 public class Shop_Dresses_Test extends BaseTest {
 

@@ -1,8 +1,10 @@
-package CapGemini.AutomationPractice;
+package tests;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+
+import pages.Home_Page;
 
 public class CreateAccount_Test extends BaseTest {
 

@@ -1,4 +1,4 @@
-package CapGemini.AutomationPractice;
+package resources;
 
 import java.util.List;
 

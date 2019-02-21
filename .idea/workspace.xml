@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6254288-5472-47b0-848a-22bab580d81e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/CapGemini/AutomationPractice/Framework_CoreFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/main/java/resources/Framework_CoreFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/CapGemini/AutomationPractice/Home_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/main/java/pages/Home_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/CapGemini/AutomationPractice/Shop_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/main/java/pages/Shop_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/CapGemini/AutomationPractice/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/CapGemini/AutomationPractice/CreateAccount_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/tests/CreateAccount_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/CapGemini/AutomationPractice/Login_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/tests/Login_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/CapGemini/AutomationPractice/Logout_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/tests/Logout_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/CapGemini/AutomationPractice/Shop_Dresses_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/tests/Shop_Dresses_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login, Find the most expensive dress and add it to the cart, Logout, Login, verify the cart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login_Logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login_Logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login_Logout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/TestSuite/Login_Logout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/junitreports/TEST-CapGemini.AutomationPractice.Login_Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/junitreports/TEST-CapGemini.AutomationPractice.Login_Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/junitreports/TEST-CapGemini.AutomationPractice.Logout_Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/junitreports/TEST-CapGemini.AutomationPractice.Logout_Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/junitreports/TEST-CapGemini.AutomationPractice.Shop_Dresses_Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/junitreports/TEST-CapGemini.AutomationPractice.Shop_Dresses_Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/TestSuite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/TestSuite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/TestSuite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/TestSuite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/test-output/testng-results.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutomationPractice/AutomationPracticeSuite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AutomationPractice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutomationPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549917345733" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/AutomationPractice/AutomationPracticeSuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6254288-5472-47b0-848a-22bab580d81e" name="Default Changelist" comment="" />
+      <created>1549911810868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549911810868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 08m 39s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 13m 17s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 14m 52s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 23m 21s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 26m 20s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 26m 39s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 33m 21s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 45m 00s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_maruthithammineni_git_AutomationPractice_AutomationPractice_AutomationPracticeSuite_xml - 2019.02.11 at 19h 45m 41s.xml">
+      <configuration name="/Users/maruthithammineni/git/AutomationPractice/AutomationPractice/AutomationPracticeSuite.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="721" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3783784" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290938" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/CapGemini/AutomationPractice/Framework_CoreFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/AutomationPracticeSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
